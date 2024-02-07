@@ -8,3 +8,6 @@ A console-driven application that allows users to run pre-made programs. Include
 
 ### [JavaFX](JavaFX)
 An application created using JavaFX that expands on the console application with a GUI.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
